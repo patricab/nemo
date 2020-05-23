@@ -1,0 +1,24 @@
+Reference, Value, Footprint, Datasheet,Price (USD),LCSC Part #
+J5,Conn_02x03_Odd_Even,Connector_PinHeader_1.27mm:PinHeader_2x03_P1.27mm_Vertical,~,,
+C5,0.33uF,Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,~,0.015829,C507077
+"C6, C2",0.1uF,Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,~,0.015126,C282518
+Y1,16MHz,Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering,~,0.504318,C387370
+C3,18pF,Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,~,0.0169,C415402
+C4,22pF,Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,~,0.003915,C376775
+C1,10uF,Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,~,0.053491,C91606
+D1,1N4001,Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal,http://www.vishay.com/docs/88503/1n4001.pdf,0.019891,C331627
+J3,Conn_01x02_Male,Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical,~,,
+R2,1k,Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,~,0.002629,C328340
+D2,LED,LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,~,0.028633,C434428
+SW1,SW_Push,Button_Switch_SMD:SW_Push_1P1T_NO_CK_KSC7xxJ,~,,
+J6,Conn_01x12_Male,Connector_PinHeader_1.27mm:PinHeader_1x12_P1.27mm_Vertical,~,,
+U1,ATmega328P-AU,Package_QFP:TQFP-32_7x7mm_P0.8mm,http://ww1.microchip.com/downloads/en/DeviceDoc/ATmega328_P%20AVR%20MCU%20with%20picoPower%20Technology%20Data%20Sheet%2040001984A.pdf,2.072955,C14877
+J4,Conn_01x06_Male,Connector_PinHeader_1.27mm:PinHeader_1x06_P1.27mm_Vertical,~,,
+J2,Conn_01x06_Male,Connector_PinHeader_1.27mm:PinHeader_1x06_P1.27mm_Vertical,~,,
+J1,Conn_01x02_Male,Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical,~,,
+R1,10k,Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,~,0.000908,C81087
+U2,L7805,Package_TO_SOT_SMD:TO-263-2,http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf,0.375455,C53236
+,,,,,
+,,,Total (USD),3.11005,
+,,,Total (NOK),31.1005,
+,,,+moms,38.875625,
