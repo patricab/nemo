@@ -14,7 +14,7 @@ This includes the schematic file, component libraries, netlist and PCB-files
 # Schematic PDF Export
 Included is a PDF export of the schematic file:
 
-[PDF](schematic.pdf)
+![Schematic](schematic.pdf)
 
 # Bill of Materials (BOM)
 I have also added a full bill of materials (minus the header-pins), which are sourced from [LCSC](LCSC.com).
