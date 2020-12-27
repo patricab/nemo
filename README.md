@@ -8,7 +8,7 @@ What's included:
 - Schematic PDF Export
 
 # Full KiCAD project
-I have included all project files for use with the open source CAD software KiCAD
+I have included all project files for use with the open source CAD software KiCAD.
 This includes the schematic file, component libraries, netlist and PCB-files
 
 # Schematic PDF Export
